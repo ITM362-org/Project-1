@@ -32,10 +32,17 @@ body{
 	text-align: center;
 	font-size: 20px;
 	border: solid;
-	padding-bottom: 30px;
+	padding-bottom: 10px;
 	background-image: url("../images/background.jpg");
 }
 
+#signup{
+	margin: auto;
+	border: solid;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: white;
+}
 
 h1{
 	text-align: center;
